@@ -1,0 +1,20 @@
+3 4
+Patricia Joao Maria Joana
+Mariana Carlos Beatriz Ana
+Pedro Carol Alberto Marilia
+
+MATRIZ TRNAPOSTA
+
+Patricia Mariana Pedro
+Joao Carlos Carol
+Maria Beatriz Alberto
+Joana Ana Marilia
+
+SERA QUE PASSOU PARA O VETOR
+
+Patricia Joao Maria Joana Mariana Carlos Beatriz Ana Pedro Carol Alberto Marilia
+SERA QUE DEU CERTO
+
+Alberto Ana Beatriz Carlos
+Carol Joana Joao Maria
+Mariana Marilia Patricia Pedro
